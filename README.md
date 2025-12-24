@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá! Eu sou João Vitor Carapina </h1>
-  <h3>Cientista de Dados Júnior | Analista de Sistemas</h3>
+  <h3>Cientista de Dados Júnior | Analista de Dados</h3>
 
   <p>
     <em>"De Vendas para Dados: Transformando números em estratégias de negócio."</em>
@@ -16,10 +16,10 @@ Tenho 28 anos e estou no **último semestre de Análise e Desenvolvimento de Sis
 
 Estou em transição de carreira para a **Área de Dados**, atráves das formações nas plataformas Alura, Kaggle e Data Science Academy, unindo minha visão de negócio com conhecimento em estatística para auxilirar nas tomadas de decisões.
 <div align="center">
-<a href="https://linkedin.com/in/SEU-LINKEDIN-AQUI">
+<a href="https://linkedin.com/in/joaovitorcarapina">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:SEU-EMAIL-AQUI">
+  <a href="mailto:jcarapinabarbosa@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
