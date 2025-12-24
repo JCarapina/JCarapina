@@ -28,8 +28,8 @@ Estou em transição de carreira para a **Área de Dados**, atráves das formaç
 
 <div align="center">
   <a href=https://github.com/JCarapina">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jarapina&show_icons=true&theme=dark&include_all_commit=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jarapina&layout=compact&langs_count=16&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JCarapina&show_icons=true&theme=dark&include_all_commit=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCarapina&layout=compact&langs_count=16&theme=dark"/>
 </div>
     
 <div align="center">
