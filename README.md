@@ -28,9 +28,12 @@ Estou em transição de carreira para a **Área de Dados**, atráves das formaç
 
 <div align="center">
   <a href=https://github.com/JCarapina">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JCarapina&show_icons=true&theme=dark&include_all_commit=true&count_private=true"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=JCarapina&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCarapina&layout=compact&langs_count=16&theme=dark"/>
+    
 </div>
+  
+
     
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -44,4 +47,4 @@ Estou em transição de carreira para a **Área de Dados**, atráves das formaç
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-![Snake Animation](https://github.com/JCarapina/JCarapina/blob/output/github-contribuition-grid-sanke.svg)
+<img src="https://raw.githubusercontent.com/JCarapina/JCarapina/output/snake.svg" alt="Snake animation" />
