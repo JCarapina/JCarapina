@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá! Eu sou João Vitor Carapina </h1>
-  Cientista de Dados Júnior | Analista de Dados
+  Analista de Dados
 
  
 </div>
