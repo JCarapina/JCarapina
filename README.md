@@ -9,7 +9,7 @@
 # Sobre Mim
 <div>
 
-Tenho 28 anos e estou no **último semestre de Análise e Desenvolvimento de Sistemas**. Atualmente, atuo como **Vendedor Externo**, vivência que me ensinou a entender as dores dos clientes e a importância de resultados mensuráveis.
+Tenho 28 anos e estou no **Formando em Analise e Desenvolvimento de Sistemas - UNIP **. Atualmente, atuo como **Consultor Externo**, vivência que me ensinou a entender as dores dos clientes e a importância de resultados mensuráveis.
 
 Estou em transição de carreira para a **Área de Dados**, atráves das formações nas plataformas Alura, Kaggle e Data Science Academy, unindo minha visão de negócio com conhecimento em estatística para auxilirar nas tomadas de decisões.
 <p>
